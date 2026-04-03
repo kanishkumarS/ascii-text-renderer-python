@@ -28,4 +28,4 @@ This project is a Python-based Dot Matrix Text Generator that converts input tex
 1. Install Python
 2. Run the script:
 ```bash
-python filename.py
+python DisFont.py
